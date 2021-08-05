@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# This code is for rectangular multiplication
 
 
 import numpy as np
