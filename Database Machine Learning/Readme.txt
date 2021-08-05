@@ -1,0 +1,7 @@
+Flight Delays and Cancellations:
+Machine Learning Implementation
+
+Sara Amato, Grant Gittes, Max Song
+
+Abstract:
+Using a dataset from the US Department of Transportation from 2015 , we aimed to create a database containing 1+ million tracked fights, and then use machine learning techniques to predict whether a flight will be delayed or cancelled based on data such as scheduled arrival/departure, airline, origin/destination, etc. MySQL with InnoDB tables is utilized for the database and Python (with pandas and sklearn) is used for machine learning. The Federal Aviation Administration defines a delay as being greater than 15 minutes, which is reflected in our preprocessing for machine learning. After testing, the Random Forest model was most accurate, so we used that as our model for predicting delays. We believe this to be a useful project, because flight delays and cancellations are an issue that almost everyone who has every travelled has faced. This universal problem makes our project appeal to many audiences and could be useful as tool to provide a predication on whether an upcoming flight will be delayed. It is also a project that can be easily adapted later to include more data from different years and different variables to improve the machine learning performance. 
