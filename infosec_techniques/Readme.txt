@@ -1,3 +1,4 @@
+A description is included within the project_instructions.pdf
 
 
 Instructions:
