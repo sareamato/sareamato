@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# Calculated betweeness centrality by hand using intersections in Pittsburgh
+
 
 
 import pandas as pd
